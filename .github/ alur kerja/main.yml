@@ -1,0 +1,17 @@
+name: CI FIE PROPERTY 
+
+on: [KONSULTAN]
+
+jobs:LISTING SEWA JUAL PROPERTI
+  build:SOLUSI KENYAMAN
+
+    runs-on: ubuntu-latest
+
+    steps: IKUTI LEBIH JAUH
+    - uses: #Fie Property next and klik actions/checkout@v2
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: CALL or WA
+        echo Add other actions to build,
+        echo test, and deploy your project.
